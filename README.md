@@ -2,6 +2,18 @@
 
 > Nuxt.js app that ists corny dad jokes. Uses the [icanhazdadjoke.com API](https://icanhazdadjoke.com/api)
 
+### Home Page
+
+![](home.png)
+
+### Jokes Page
+
+![](jokes.png)
+
+### About Page
+
+![](about.png)
+
 ## Build Setup
 
 ```bash
